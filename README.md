@@ -1,8 +1,8 @@
 # google-alexa-project
 
-# Section 03- Group 8
+## Section 03- Group 8
 
-# Members
+## Members
 * Noah Mahlberg
 * Aashutosh Chapagain
 * Dipika Sharma
