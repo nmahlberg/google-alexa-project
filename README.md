@@ -1,6 +1,6 @@
 # google-alexa-project
 
-# Section 03-8
+# Section 03- Group 8
 
 # Members
 * Noah Mahlberg
