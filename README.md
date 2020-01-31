@@ -4,5 +4,7 @@
 
 ## Members
 * Noah Mahlberg
-* Aashutosh Chapagain
+
+* Aashutosh Prasad Chapagain
+
 * Dipika Sharma
